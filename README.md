@@ -1,5 +1,5 @@
 # pdf2txt
-Easily and quickly convert PDF documents to plain text (.txt) files.
+Easily convert PDF documents to plain text (.txt) files fast!
 
 ## Description
 This tool provides a straightforward way to extract text content from PDF files and save it to a text file. It processes all pages of the PDF and maintains the text structure.
